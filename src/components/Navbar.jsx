@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
    (
     <div>
-      <nav className="px-8 py-4 flex justify-between items-center container mx-auto">
+      <nav className="px-8 py-4 w-full container mx-auto flex justify-between items-center shadow-md ">
         <h1 className="md:text-xl text-sm font-bold">CS — Ticket System</h1>
 
        

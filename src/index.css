@@ -3,3 +3,7 @@
 
 @import "tailwindcss";
 @plugin "daisyui";
+
+*{
+    font-family: "Lexend", sans-serif;
+}
